@@ -4,7 +4,8 @@ main
 
 abcd        
 
-
+def head_add():
+	print('head_add')
 
 def main():
 	print('main function') 
