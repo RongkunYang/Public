@@ -5,5 +5,10 @@ main
 abcd        
 
 
+
 def main():
 	print('main function') 
+
+def test():
+	print('test result') 
+
