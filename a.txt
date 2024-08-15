@@ -19,3 +19,4 @@ def middle_add():
 def test():
 	print('test result') 
 
+new_token
