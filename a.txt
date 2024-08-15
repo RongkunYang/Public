@@ -7,6 +7,9 @@ abcd
 def head_add():
 	print('head_add')
 
+a():
+	print('a')
+
 def main():
 	print('main function') 
 
