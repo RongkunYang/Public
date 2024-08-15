@@ -9,6 +9,9 @@ abcd
 def main():
 	print('main function') 
 
+def middle_add():
+	print('middle_add')
+
 def test():
 	print('test result') 
 
